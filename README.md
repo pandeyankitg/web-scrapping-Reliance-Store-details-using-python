@@ -13,6 +13,10 @@ pin Code
 City
 Phone Number
 Prerequisites
+
+
+
+
 For this web scraping tutorial using Python 3, we will need some some packages:
 
 Python requests
@@ -20,6 +24,12 @@ UnicodeCSV
 Installation
 
 #Installation
+
+
 PIP 
+
+
 Python Requests
+
+
 Python LXML
